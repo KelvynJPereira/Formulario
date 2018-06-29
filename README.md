@@ -1,3 +1,3 @@
 # Formulário de validação.
 ##  Simples, exercícico de aula.
-https://s.codepen.io/kelvynjpereira/debug/YvZXMp/yYryLOyLBYZM
+ https://kelvynjpereira.github.io/Formulario-basico/
